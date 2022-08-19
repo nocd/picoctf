@@ -1,3 +1,10 @@
-# Mind Your Ps and Qs
+# Title
+Mind Your Ps and Qs
+
+# Description
 In RSA, a small e value can be problematic, but what about N? Can you decrypt this?
 
+# References
+
+
+# Flag
